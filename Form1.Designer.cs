@@ -50,6 +50,8 @@ namespace TTSI
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(32, 26);
+            this.textBox1.MaximumSize = new System.Drawing.Size(486, 354);
+            this.textBox1.MinimumSize = new System.Drawing.Size(486, 354);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(486, 354);
